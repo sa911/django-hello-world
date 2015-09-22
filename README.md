@@ -1,2 +1,2 @@
 # django-hello-world
-my first django hello world program
+my first django hello world programme
